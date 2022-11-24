@@ -67,9 +67,6 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Organize Toys/Scenes/Desc_Trash.unity
     guid: cf56b911b79777943a972441fa163589
-  - enabled: 0
-    path: Assets/Organize Toys/Scenes/NewTrash.unity
-    guid: 537458a9a3f36554b8cd6213c253417c
   - enabled: 1
     path: Assets/Organize Toys/Scenes/TrashDrop.unity
     guid: 9a09a20ef45525a439a515c01314678a

@@ -10,6 +10,8 @@ public class FetchMalangs : MonoBehaviour
 {
 
   public GameObject arCamera;
+  public AudioClip buttonClick;
+  AudioSource audioSource;
 
   // 킹말랑이
   public GameObject king1;
@@ -135,6 +137,8 @@ public class FetchMalangs : MonoBehaviour
     slimeSetFalse();
     slimeSetTrue();
 
+    this.audioSource = GetComponent<AudioSource>();
+
 
   }
 
@@ -220,30 +224,35 @@ public class FetchMalangs : MonoBehaviour
           Handheld.Vibrate();
           rabbitsay.gameObject.SetActive(true);
           Debug.Log("why??????");
+          PlaySound(1);
           Invoke("crabbit", 5f);
         }
         if (hit.transform.tag == "rabbit1")
         {
           Handheld.Vibrate();
           rabbitsay1.SetActive(true);
+          PlaySound(1);
           Invoke("crabbit1", 5f);
         }
         if (hit.transform.tag == "rabbit2")
         {
           Handheld.Vibrate();
           rabbitsay2.SetActive(true);
+          PlaySound(1);
           Invoke("crabbit2", 5f);
         }
         if (hit.transform.tag == "rabbit3")
         {
           Handheld.Vibrate();
           rabbitsay3.SetActive(true);
+          PlaySound(1);
           Invoke("crabbit3", 5f);
         }
         if (hit.transform.tag == "rabbit4")
         {
           Handheld.Vibrate();
           rabbitsay4.SetActive(true);
+          PlaySound(1);
           Invoke("crabbit4", 5f);
         }
 
@@ -936,5 +945,16 @@ public class FetchMalangs : MonoBehaviour
   void cviking4()
   {
     vikingsay4.gameObject.SetActive(false);
+  }
+
+  void PlaySound(int action)
+  {
+    switch (action)
+    {
+      case 1:
+        audioSource.clip = buttonClick;
+        break;
+    }
+    audioSource.Play();
   }
 }

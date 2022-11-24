@@ -12,7 +12,7 @@ public class getName : MonoBehaviour
   // Start is called before the first frame update
   private void Start()
   {
-    userName.text = NameController.userName;
+    userName.text = "나는야 " + NameController.userName;
   }
 
   private void Update()

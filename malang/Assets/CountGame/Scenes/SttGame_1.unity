@@ -2216,6 +2216,9 @@ MonoBehaviour:
   userName1: {fileID: 0}
   userName2: {fileID: 0}
   userName3: {fileID: 0}
+  EditName: {fileID: 0}
+  CancelBtn: {fileID: 0}
+  WritehBtn: {fileID: 0}
 --- !u!4 &1033830496
 Transform:
   m_ObjectHideFlags: 0
@@ -10303,6 +10306,18 @@ PrefabInstance:
       propertyPath: m_fontSize
       value: 179.35
       objectReference: {fileID: 0}
+    - target: {fileID: 3648637033354495365, guid: 036daa7ca0702f1438e3152abf9a9bd1,
+        type: 3}
+      propertyPath: m_fontAsset
+      value: 
+      objectReference: {fileID: 11400000, guid: 5d8015617221bd74596d1087b1e872bb,
+        type: 2}
+    - target: {fileID: 3648637033354495365, guid: 036daa7ca0702f1438e3152abf9a9bd1,
+        type: 3}
+      propertyPath: m_sharedMaterial
+      value: 
+      objectReference: {fileID: -2443742520165511509, guid: 5d8015617221bd74596d1087b1e872bb,
+        type: 2}
     - target: {fileID: 3648637033354495366, guid: 036daa7ca0702f1438e3152abf9a9bd1,
         type: 3}
       propertyPath: m_AnchoredPosition.y
