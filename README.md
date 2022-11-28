@@ -56,6 +56,8 @@
 
 ## 3. 프로젝트 산출물
 
+[apk 다운](https://drive.google.com/file/d/1q99NdREL7I94LkudiT5QKXm1jhS5hhlO/view?usp=sharing)
+
 [UCC 링크](https://youtu.be/BCH0hkjmk6o)
 
 [프로젝트 설명서](https://ruddy-hide-9de.notion.site/101979e1877942fdaf0be5b9df4753c5)
