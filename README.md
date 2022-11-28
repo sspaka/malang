@@ -1,5 +1,8 @@
 # 말랑유치원
 > 아동을 위한 놀이·교육용 AR 어플리케이션
+<br/>
+
+![메인_AdobeExpress](https://user-images.githubusercontent.com/88380737/204172042-e64195c5-47e1-412c-a52f-c8623dce8488.gif)
 
 ### 진행기간
 
@@ -56,6 +59,8 @@
 [UCC 링크](https://youtu.be/BCH0hkjmk6o)
 
 [프로젝트 설명서](https://ruddy-hide-9de.notion.site/101979e1877942fdaf0be5b9df4753c5)
+
+[노션](https://seongjunhong.notion.site/77e9f328839a48c1ac05448d1626317f)
 
 ## 4. 프로젝트 구조
 
