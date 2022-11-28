@@ -58,7 +58,9 @@
 
 [apk 다운](https://drive.google.com/file/d/1q99NdREL7I94LkudiT5QKXm1jhS5hhlO/view?usp=sharing)
 
-[UCC 링크](https://youtu.be/BCH0hkjmk6o)
+[UCC 링크](https://youtu.be/BCH0hkjmk6o) 6분
+
+[UCC 링크2](https://www.youtube.com/watch?v=0Mf096r2h2s&t=2s) 4
 
 [프로젝트 설명서](https://ruddy-hide-9de.notion.site/101979e1877942fdaf0be5b9df4753c5)
 
